@@ -4,17 +4,19 @@ let path = require('path');
 const isDirectory = source => fs.lstatSync(source).isDirectory();
 const getDirectories = source => fs.readdirSync(source).map(name => path.join(source, name)).filter(isDirectory);
 
+// Change these 
+let currentDir = "codingtrain-practice";
+let heading = "codingtrain-practice";
+
+let readmeFile = __dirname + '/README.md';
 
 let dirs = getDirectories("./");
 let links = [];
 for (let i = 1; i < dirs.length; i++) {
-    let link = `https://rohitkrishna094.github.io/codingtrain-practice/${dirs[i]}/`;
-    links.push(link);
+    links.push(`https://rohitkrishna094.github.io/${currentDir}/${dirs[i]}/`);
 }
 
-let readmeFile = __dirname + '/README.md';
-
-let content = "# [codingtrain-practice](https://rohitkrishna094.github.io/codingtrain-practice/)\n\n";
+let content = `# [${heading}](https://rohitkrishna094.github.io/${currentDir}/)\n\n`;
 content += "Click the links below for their demonstration\n\n";
 for (let i = 0; i < links.length; i++) {
     content += `* [${dirs[i+1]}](${links[i]})\n`;
