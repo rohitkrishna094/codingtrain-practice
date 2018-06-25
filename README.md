@@ -1,5 +1,10 @@
-# codingtrain-practice
+# [codingtrain-practice](https://rohitkrishna094.github.io/codingtrain-practice/)
 
-### [Main Github Page for this repo](https://rohitkrishna094.github.io/codingtrain-practice/)
+Click the links below for their demonstration
 
-* [Slider Dance](https://rohitkrishna094.github.io/codingtrain-practice/sliderDance/)
+* [mengerSponge](https://rohitkrishna094.github.io/codingtrain-practice/mengerSponge/)
+* [mitosis](https://rohitkrishna094.github.io/codingtrain-practice/mitosis/)
+* [purpleRain](https://rohitkrishna094.github.io/codingtrain-practice/purpleRain/)
+* [sliderDance](https://rohitkrishna094.github.io/codingtrain-practice/sliderDance/)
+* [starfield](https://rohitkrishna094.github.io/codingtrain-practice/starfield/)
+* [test](https://rohitkrishna094.github.io/codingtrain-practice/test/)
