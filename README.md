@@ -4,6 +4,7 @@ Click the links below for their demonstration
 
 * [mengerSponge](https://rohitkrishna094.github.io/codingtrain-practice/mengerSponge/)
 * [mitosis](https://rohitkrishna094.github.io/codingtrain-practice/mitosis/)
+* [objectTrails](https://rohitkrishna094.github.io/codingtrain-practice/objectTrails/)
 * [purpleRain](https://rohitkrishna094.github.io/codingtrain-practice/purpleRain/)
 * [sliderDance](https://rohitkrishna094.github.io/codingtrain-practice/sliderDance/)
 * [starfield](https://rohitkrishna094.github.io/codingtrain-practice/starfield/)
