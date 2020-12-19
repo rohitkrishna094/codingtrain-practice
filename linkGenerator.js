@@ -21,7 +21,7 @@ for (let i = 1; i < dirs.length; i++) {
 }
 
 let content = `# [${heading}](https://rohitkrishna094.github.io/${currentDir}/)\n\n`;
-content += 'These are some coding challenges inspired from coding train youtube channel.Click the links below for their demonstration\n\n';
+content += 'These are some coding challenges inspired from coding train youtube channel. Click the links below for their demonstration\n\n';
 for (let i = 0; i < links.length; i++) {
   content += `* [${dirs[i + 1]}](${links[i]})\n`;
 }
